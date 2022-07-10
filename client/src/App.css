@@ -1,0 +1,20 @@
+* {
+  background-color: #282c34;
+}
+
+.App {
+  color: rgb(136, 179, 245);
+}
+
+.Title {
+  margin-left: 50px;
+}
+
+.Menu {
+  float: right;
+}
+
+li {
+  float: right;
+
+}
